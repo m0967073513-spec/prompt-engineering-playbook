@@ -63,4 +63,4 @@ The goal is to **reason about prompt quality**, not to benchmark models.
 
 ## Project Status
 
-Portfolio-ready — continuously evolving playbook.
+ Portfolio-ready — continuously evolving playbook, continuously evolving playbook.
