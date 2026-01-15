@@ -64,3 +64,10 @@ The goal is to **reason about prompt quality**, not to benchmark models.
 ## Project Status
 
  Portfolio-ready — continuously evolving playbook, continuously evolving playbook.
+
+ P.S
+
+The patterns in this playbook are intentionally **domain-agnostic** and can be applied
+to a wide range of products: customer support, data extraction, internal tools,
+knowledge bases, automation pipelines, and AI-powered agents.
+
